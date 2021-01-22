@@ -1,0 +1,13 @@
+post.json
+posts.json
+settings.py
+*/__pycache__/*
+ users/__pycache__/models.cpython-37.pyc
+ *.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+staticfiles/
+venv/
