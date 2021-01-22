@@ -1,5 +1,3 @@
-post.json
-posts.json
 settings.py
 */__pycache__/*
  users/__pycache__/models.cpython-37.pyc
@@ -11,4 +9,3 @@ local_settings.py
 db.sqlite3
 staticfiles/
 venv/
-.json
